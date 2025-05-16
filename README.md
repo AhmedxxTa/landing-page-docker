@@ -14,7 +14,7 @@ To Run it you need to:
 cd landing-page-docker"
 
 2- Build the docker Image:
-"docker build -t landing-page ."
+"docker build -t landing-page-docker ."
 
 3- Run the Container
 "docker run -d -p 3000:80 react-landing-page"
